@@ -44,7 +44,7 @@ The AUTOMATIC IRRIGATION SYSTEM CONTROLLER is an **RFID Based Restaurant Food Or
 
 <h3 align="left" > FRONTEND</h3>
 
-- HTML : C'mon you know what's html for <br>
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) : C'mon you know what's html for <br>
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  :  Used it for styling .<br>
 - [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : Please Refer to Official Documentation.
 
