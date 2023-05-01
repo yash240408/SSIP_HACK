@@ -14,7 +14,7 @@
 
 <h2 align="left" > Description</h2>
 
-The AUTOMATIC IRRIGATION SYSTEM CONTROLLER is an **RFID Based Restaurant Food Ordering System** ,initially made for 36 hour hackathon by SSIP
+The AUTOMATIC IRRIGATION SYSTEM CONTROLLER is an **IOT Based System** ,initially made for 36 hour hackathon by SSIP
 - It is a web-based system that makes the sprinkling of water automatically.
 - The sprinkler sprinkles the water as per the moisture level
 - The project is based on AUTOMATIC IRRIGATION SYSTEM CONTROLLER
